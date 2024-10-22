@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Nivedh555
 - 👀 I’m interested in ...coding & programming
-- 🌱 I’m currently learning ...C Language
+- 🌱 I’m currently learning ...ML
 - 📫 How to reach me: nivedhireni@gmail.com
 - 😄 Pronouns: Nivedh | Tech enthusiast | Video editor | He/Him
 - ⚡ Fun fact: I love editing videos and coding, and sometimes I catch myself trying to ‘debug’ a video edit like it’s a piece of code!
