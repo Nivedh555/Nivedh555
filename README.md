@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Nivedh555
+- 👋 Hi, I’m @Nivedh
 - 👀 I’m interested in ...coding & programming
 - 🌱 I’m currently learning ...ML
 - 📫 How to reach me: nivedhireni@gmail.com
